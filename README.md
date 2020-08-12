@@ -27,6 +27,7 @@ This is the app created for the task.
 ***INSERT ANOTHER GRAPHIC HERE***
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/t14i0nH" data-context="false" ><a href="//imgur.com/a/t14i0nH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
