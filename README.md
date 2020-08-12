@@ -1,9 +1,3 @@
-# paymentform
-
-
-
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Payment Form
 
@@ -27,13 +21,6 @@ This is the app created for the task.
 ***INSERT ANOTHER GRAPHIC HERE***
 
 [![myApp](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)]()
-
-[!The App](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)
-
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
 
 
 **Recordit**
