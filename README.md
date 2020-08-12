@@ -18,10 +18,12 @@ This is the app created for the task.
 
 
 
-***INSERT ANOTHER GRAPHIC HERE***
-
 [![myApp](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)]()
+[![DB](https://i.ibb.co/bRDgcsf/Screenshot-2020-08-12-at-9-07-37-AM.png)]
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzcaLwde0wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Recordit**
 
