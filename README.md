@@ -28,7 +28,7 @@ This is the app created for the task.
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
-(https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)]()
+(https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)
 
 
 - Most people will glance at your `README`, *maybe* star it, and leave
