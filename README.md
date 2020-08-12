@@ -25,18 +25,14 @@ This is the app created for the task.
 
 **Recordit**
 
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![Recordit GIF](https://youtu.be/pzcaLwde0wU)
 
 ---
 
 ## Table of Contents (Optional)
 
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
-- [Features](#features)
-
-- [FAQ](#faq)
 
 - [License](#license)
 
@@ -61,7 +57,7 @@ cd into the project and within the same directory as manage.py run the app by us
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/y0d32/paymentform`
+- Clone this repo to your local machine using `https://github.com/y0d32/paymentform.git`
 
 ### Setup
 
@@ -81,16 +77,6 @@ $ python manage.py runserver
 
 ---
 
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-
-
-## Contributing
-
-> To get started...
 
 ### Step 1
 
@@ -107,14 +93,6 @@ $ python manage.py runserver
 ### Step 3
 
 - 🔃 Create a new pull request using <a href="https://github.com/y0d32/paymentform.git" target="_blank">`https://github.com/y0d32/paymentform.git`</a>.
-
----
-
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
 
 ---
 
