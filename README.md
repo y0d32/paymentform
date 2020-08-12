@@ -3,11 +3,6 @@
 
 
 
-
-
-
-
-
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Payment Form
@@ -36,21 +31,11 @@ This is the app created for the task.
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
 
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
 
 
 **Recordit**
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
 
 ---
 
@@ -60,9 +45,9 @@ This is the app created for the task.
 
 - [Installation](#installation)
 - [Features](#features)
-- [Contributing](#contributing)
+
 - [FAQ](#faq)
-- [Support](#support)
+
 - [License](#license)
 
 
@@ -97,8 +82,6 @@ cd into the project and within the same directory as manage.py run the app by us
 ```shell
 $ pip install -r requirements.txt
 ```
-
-> now install npm and bower packages
 
 ```shell
 $ python manage.py runserver
