@@ -26,7 +26,7 @@ This is the app created for the task.
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![myApp](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)]()
 
 [!The App](https://i.ibb.co/S7ZFT6h/Screenshot-2020-08-12-at-9-07-19-AM.png)
 
