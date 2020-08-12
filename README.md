@@ -22,7 +22,7 @@ This is the app created for the task.
 
 
 
-## Please see bellow the Youtube Video
+## Please click on the image bellow the see the actual Youtube Video
 <div align="center">
       <a href="https://www.youtube.com/embed/pzcaLwde0wU">
      <img 
@@ -31,16 +31,6 @@ This is the app created for the task.
       style="width:100%;">
       </a>
     </div>
-
----
-
-## Table of Contents (Optional)
-
-
-- [Installation](#installation)
-
-- [License](#license)
-
 
 ---
 
